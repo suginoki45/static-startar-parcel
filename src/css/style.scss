@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5% ; /* 16px x 0.625 = 10px(= 1rem) */
+}
+
+body {
+  font-size: 1.6rem; /* 16px */
+  font-family: -apple-system, blinkMacSystemFont, YuGothic-M, YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  -webkit-text-size-adjust: 100%;
+  font-feature-settings: "palt";
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  ::i-block-chrome, body {
+    font-feature-settings: "pkna";
+  }
+}
