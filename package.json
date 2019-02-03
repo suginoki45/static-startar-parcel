@@ -13,11 +13,11 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.2.2",
-    "autoprefixer": "^9.4.3",
-    "eslint": "^5.4.0",
+    "autoprefixer": "^9.4.7",
+    "eslint": "^5.13.0",
     "parcel": "^1.11.0",
-    "sass": "^1.15.2",
-    "stylelint": "^9.8.0",
+    "sass": "^1.16.1",
+    "stylelint": "^9.10.1",
     "stylelint-config-recommended-scss": "^3.2.0"
   }
 }
