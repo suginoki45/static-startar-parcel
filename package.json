@@ -1,5 +1,5 @@
 {
-  "name": "glatch-static-startar-parcel",
+  "name": "static-startar-parcel",
   "version": "1.0.0",
   "description": "モジュールバンドラーにParcelを使用した静的サイト制作のためのスターターです。",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suginoki45/glatch-static-startar-parcel.git"
+    "url": "git+https://github.com/suginoki45/static-startar-parcel.git"
   },
   "author": "Glatch",
   "license": "MIT",
